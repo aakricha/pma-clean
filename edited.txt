@@ -1,0 +1,9 @@
+Edited Files:
+
+config.inc.php : login user dll
+create_tables.sql : exported to database
+/Users/danang/Sites/phpmyadmin/libraries/plugins/export/ExportSql.class.php :
+	570-576	: marked as comment
+	679-686	: marked as comment
+	649			: marked as comment
+	
